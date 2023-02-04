@@ -4,7 +4,7 @@ It is like a simple Facebook Lite, but it has several special features, such as:
 
 - [FEATURES](#FEATURES)
 - [APP-IMAGE](#APP-IMAGE)
-- [IMAGES](#images)
+- [aAUTHORS](##Authors)
 - [FEEDBACK](#FEEDBACK)
 - [DOWNLOAD](#download)
 
