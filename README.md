@@ -31,7 +31,7 @@ Yes you can login with cookies but this features is buggy not because of any cod
 
 
 ## DOWNLOAD
-[CLICK FOR DOWNLOAD](http://www.google.com)
+[![Download apk](https://custom-icon-badges.herokuapp.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download apk")](https://github.com/zaidrao/Facebook-Lite-Plus/releases/download/019/Facebook.Lite+.19.apk)
 
 ## APP-IMAGE
 
@@ -53,5 +53,5 @@ For support, email [Md Sagor Munshi](https://mdsagormunshi.github.io/)
 
 If you have any feedback, please reach out to us at mdsagormunshixagor@gmail.com
 
-[BUY ME A COFFE](https://www.buymeacoffee.com/mdsagormunshi)
+[BUY ME A COFFEE](https://www.buymeacoffee.com/mdsagormunshi)
 
